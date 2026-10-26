@@ -1,10 +1,9 @@
 # rna-evolution-membraneless-compartments
-Custom codes used for the manuscript "Darwinian evolution of an RNA replicator in membraneless compartments."
+Custom code used for the manuscript "Darwinian evolution of an RNA replicator in membraneless compartments."
 
 The code was tested with Python 3.10.16 on Windows 11.
 
-This repository contains Python scripts and data used for the analysis of
-droplet size and inter-droplet transport of genomic RNA and replicase.
+This repository contains Python scripts and data for the analysis of droplet size and inter-droplet transport of genomic RNA and replicase.
 
 ## Contents
 
@@ -15,15 +14,6 @@ droplet size and inter-droplet transport of genomic RNA and replicase.
   Analysis of genomic RNA and replicase redistribution among droplets,
   including T20, degree of homogenization (H), and simulations of
   homogenization caused by droplet coalescence.
-
-## Requirements
-
-Python 3 with:
-- numpy
-- pandas
-- matplotlib
-- seaborn
-- ptitprince
 
 ## Usage
 
