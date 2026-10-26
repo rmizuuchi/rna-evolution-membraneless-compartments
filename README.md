@@ -14,6 +14,12 @@ This repository contains Python scripts and data for the analysis of droplet siz
   Analysis of genomic RNA and replicase redistribution among droplets,
   including T20, degree of homogenization (H), and simulations of
   homogenization caused by droplet coalescence.
+  
+- `Droplet_size_data/`
+  ImageJ output and processed CSV files used for droplet size analysis.
+
+- `RNA_Replicase_diffusion_data/`
+  ImageJ output and processed CSV files used for genomic RNA and replicase diffusion analysis.
 
 ## Usage
 
